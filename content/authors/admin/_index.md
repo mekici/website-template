@@ -1,6 +1,7 @@
 ---
 title: Murat Ekici
 role: Professor of Instructional Technologies
+avatar_filename: 12028909_10153677030412156_3141563207067263519_o.jpg
 bio: My research interests include technology enhanced learning, mobile and
   networked learning.
 interests:
