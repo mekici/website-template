@@ -95,6 +95,8 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     name = "categories"
     weight = 70.0
 
+
+
 # Install Wowchemy
 [module]
   [[module.imports]]
